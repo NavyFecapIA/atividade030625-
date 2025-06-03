@@ -11,4 +11,6 @@ git push -u origin main
 git status
 git add .
 git status
+git commit -m "códigos.txt"
+git status
 git push
