@@ -14,3 +14,11 @@ git status
 git commit -m "códigos.txt"
 git status
 git push
+
+# Para Alterações se faz:
+
+Muda o texto do explorer
+git add .
+git commit -m "NomeDoArquivo"
+git status
+git push
